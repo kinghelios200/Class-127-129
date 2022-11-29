@@ -1,0 +1,23 @@
+body{
+    background-color: greenyellow;
+}
+
+h1{
+    color: aquamarine;
+    background-color: red;
+}
+
+#show_sketch{
+    float: right;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    margin-top: 50px;
+}
+
+p{
+    padding-top: 10px;
+    font-size: 25px;
+}
